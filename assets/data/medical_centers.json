@@ -1,0 +1,20 @@
+[
+  {
+    "name": "City Hospital",
+    "address": "123 Main St, Seattle",
+    "rating": 4.8,
+    "imageUrl": "assets/images/2.jpeg"
+  },
+  {
+    "name": "Downtown Clinic",
+    "address": "456 Elm St, Seattle",
+    "rating": 4.5,
+    "imageUrl": "assets/images/3.jpeg"
+  },
+  {
+    "name": "Wellness Center",
+    "address": "789 Pine St, Seattle",
+    "rating": 4.7,
+    "imageUrl": "assets/images/4.png"
+  }
+]

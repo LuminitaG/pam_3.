@@ -1,0 +1,43 @@
+[
+
+  {
+    "name": "Dr. David Patel",
+    "specialization": "Cardiologist",
+    "clinic": "Cardiology Center, USA",
+    "rating": 5.0,
+    "reviews": 1872,
+    "imageUrl": "assets/images/4.png"
+  },
+  {
+    "name": "Dr. Jessica Turner",
+    "specialization": "Gynecologist",
+    "clinic": "Women’s Clinic, Seattle, USA",
+    "rating": 4.9,
+    "reviews": 127,
+    "imageUrl": "assets/images/5.png"
+  },
+  {
+    "name": "Dr. Michael Johnson",
+    "specialization": "Orthopedic Surgery",
+    "clinic": "Maple Associates, NY, USA",
+    "rating": 4.7,
+    "reviews": 5223,
+    "imageUrl": "assets/images/6.png"
+  },
+  {
+    "name": "Dr. Emily Nguyen",
+    "specialization": "Neurologist",
+    "clinic": "Neurology Clinic, LA, USA",
+    "rating": 4.6,
+    "reviews": 321,
+    "imageUrl": "assets/images/7.png"
+  },
+  {
+    "name": "Dr. Sarah Connor",
+    "specialization": "Dermatologist",
+    "clinic": "Skin Wellness Center, TX, USA",
+    "rating": 4.8,
+    "reviews": 850,
+    "imageUrl": "assets/images/8.png"
+  }
+]
